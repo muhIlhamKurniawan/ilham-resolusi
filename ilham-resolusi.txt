@@ -3,4 +3,4 @@ ILHAM RESOLUSI
 - Kurangi Ego
 - Meningkatkan Skill
 - Hemat dan tidak boros
-- Belajar Javascript 
+- Belajar Flutter 
