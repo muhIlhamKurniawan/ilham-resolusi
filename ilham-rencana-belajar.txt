@@ -1,4 +1,7 @@
 Rencana Belajar
 - Belajar Python
 - Belajar Node JS
-- Belajar Javascript Lanjutan
+- Belajar Javascript
+  * Javascript lanjutan
+  * Next JS
+- Belajar React JS
