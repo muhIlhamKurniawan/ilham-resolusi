@@ -4,3 +4,4 @@ ILHAM RESOLUSI
 - Meningkatkan Skill
 - Hemat dan tidak boros
 - Belajar Flutter 
+- Belajar Golang
