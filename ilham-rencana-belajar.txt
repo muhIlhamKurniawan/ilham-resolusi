@@ -7,7 +7,6 @@ Rencana Belajar
     > Vue
     > Next JS
     > React JS
-- Belajar React JS
 - Belajar IOT dan Arduino
 - Belajar PHP
  * Framework PHP
