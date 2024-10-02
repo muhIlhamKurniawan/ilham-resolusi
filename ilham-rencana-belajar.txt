@@ -4,9 +4,10 @@ Rencana Belajar
 - Belajar Javascript
   * Javascript lanjutan
   * Framework Javascript
-    > Angular JS
+    > Vue
+    > Next JS
     > React JS
 - Belajar IOT dan Arduino
 - Belajar PHP
-  * Framework PHP
-    > Laravel
+ * Framework PHP
+   > Laravel
